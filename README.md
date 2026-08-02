@@ -19,7 +19,9 @@ done — no rebuild, no restart. Contributions welcome.
 
 1. Download the `.yaml` file you want from [`themes/`](themes/).
 2. Open Smartloop Studio → **Settings → Theme**.
-3. Drop the file onto the **`+`** tile (or the Theme section).
+3. Drop the file onto the **`Drop a theme`** tile (the dashed **`+`** tile in the Theme grid).
+
+![Where to drop a theme in Smartloop Studio → Settings → Theme](docs/theme-settings.png)
 
 That's it — the theme is imported, applied, and saved. Imported themes get a
 `custom-*` id so they never clobber a built-in.
